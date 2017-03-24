@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "274586212430",
+    "firebase_url": "https://amitsendmsg.firebaseio.com",
+    "project_id": "amitsendmsg",
+    "storage_bucket": "amitsendmsg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274586212430:android:24d6671829250cca",
+        "android_client_info": {
+          "package_name": "dev.AmitSendMsg.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274586212430-m98bml3il1vufp66ng9mtfa6kktpj9r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.AmitSendMsg.chatapp",
+            "certificate_hash": "4dcacef4a797e93d2ca0de1e6494f963ece1cdd8"
+          }
+        },
+        {
+          "client_id": "274586212430-lpjanr8isco4vqabekuoj9qvc18klcr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB5YZSyRMmYzJ5RK9jxQlv_In3_uOYKTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274586212430-lpjanr8isco4vqabekuoj9qvc18klcr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
